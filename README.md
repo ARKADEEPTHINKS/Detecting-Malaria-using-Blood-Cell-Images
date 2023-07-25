@@ -8,4 +8,6 @@ Problem Technique: Image classification
 
 Data Description
 filename : Unique name for the image
+
+
 label: Target class against each image
